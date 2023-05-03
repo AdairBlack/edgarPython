@@ -18,4 +18,3 @@ for item in myList:
     print(item)
 
 # generate a function to add 2 numbers
-
